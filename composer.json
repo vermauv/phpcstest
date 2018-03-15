@@ -1,0 +1,17 @@
+{
+    "name": "root/phpcstest",
+    "description": "nil",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.2"
+    },
+    "config": {
+	    "preferred-install": "source",
+	    "sort-packages": true,
+	    "vendor-dir": "vendor"
+	}
+}
